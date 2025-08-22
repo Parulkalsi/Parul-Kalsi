@@ -6,10 +6,12 @@
 - 🚀 Exploring **Data Visualization** and **Analytics-driven decision making**.  
 - 🎯 Goal: To solve real-world business problems using the power of data.
 
+
 - ### 🌟 My Work
 🔹 Built interactive **Power BI Dashboards** to visualize business performance.  
 🔹 Designed and optimized **SQL queries** for data analysis & reporting.  
 🔹 Continuously learning and sharing my journey in data analytics. 
+
 
 ### 📫 Connect With Me
 <p align="left">
@@ -21,11 +23,5 @@
   </a>
 </p>
 
-/td>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/26xBsJBTz5z3zJ8Tu/giphy.gif" width="250px" alt="Analytics GIF"/>
-    </td>
-  </tr>
-</table>
 
 ⭐ **“Transforming Data into Decisions, One Dashboard at a Time.”**  
