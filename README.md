@@ -21,4 +21,11 @@
   </a>
 </p>
 
+/td>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/26xBsJBTz5z3zJ8Tu/giphy.gif" width="250px" alt="Analytics GIF"/>
+    </td>
+  </tr>
+</table>
+
 ⭐ **“Transforming Data into Decisions, One Dashboard at a Time.”**  
