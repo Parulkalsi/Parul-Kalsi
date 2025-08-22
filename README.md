@@ -1,5 +1,3 @@
-# Parul-Kalsi
-All about me
 <h1 align="center">Hi there, I'm Parul Kalsi 👋</h1>
 
 ### 👩‍💻 About Me
@@ -15,8 +13,12 @@ All about me
 
 ### 📫 Connect With Me
 <p align="left">
-<a href="https://www.linkedin.com/in/parulkalsi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>
-<a href="mailto:parulkalsi05@gmail.com.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="email" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/parulkalsi" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
+  <a href="mailto:parulkalsi05@gmail.com" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
+  </a>
 </p>
 
 ⭐ **“Transforming Data into Decisions, One Dashboard at a Time.”**  
